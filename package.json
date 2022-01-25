@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-csv-json",
+  "version": "1.0.0",
+  "description": "Converter arquivo csv em json",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tholivera/nodejs-csv-json.git"
+  },
+  "keywords": [
+    "csv",
+    "json"
+  ],
+  "author": "Thais Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tholivera/nodejs-csv-json/issues"
+  },
+  "homepage": "https://github.com/tholivera/nodejs-csv-json#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
